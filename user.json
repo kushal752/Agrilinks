@@ -1,0 +1,11 @@
+{
+    "userID": "user-1",
+    "marketID": "market-1",
+    "marketName": "Vashi Navi Mumbai",
+    "cmdtyID": "cmdty-1",
+    "marketType": "Mandi",
+    "cmdtyName": "Potato",
+    "priceUnit": "Pack",
+    "convFctr": 50,
+    "price": 700
+}
